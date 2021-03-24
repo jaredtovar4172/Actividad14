@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros\bin\Debug\Ej14_CuadradoDeEnteros.exe.config
+C:\Users\jared\source\repos\Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros\bin\Debug\Ej14_CuadradoDeEnteros.exe
+C:\Users\jared\source\repos\Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros\bin\Debug\Ej14_CuadradoDeEnteros.pdb
+C:\Users\jared\source\repos\Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros\obj\Debug\Ej14_CuadradoDeEnteros.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros\obj\Debug\Ej14_CuadradoDeEnteros.Form1.resources
+C:\Users\jared\source\repos\Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros\obj\Debug\Ej14_CuadradoDeEnteros.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros\obj\Debug\Ej14_CuadradoDeEnteros.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros\obj\Debug\Ej14_CuadradoDeEnteros.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros\obj\Debug\Ej14_CuadradoDeEnteros.exe
+C:\Users\jared\source\repos\Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros\obj\Debug\Ej14_CuadradoDeEnteros.pdb

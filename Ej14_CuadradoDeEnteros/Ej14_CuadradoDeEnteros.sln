@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej14_CuadradoDeEnteros", "Ej14_CuadradoDeEnteros\Ej14_CuadradoDeEnteros.csproj", "{B8E4E9D7-6CEF-4FF6-B138-A1F38E183BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E4E9D7-6CEF-4FF6-B138-A1F38E183BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E4E9D7-6CEF-4FF6-B138-A1F38E183BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E4E9D7-6CEF-4FF6-B138-A1F38E183BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E4E9D7-6CEF-4FF6-B138-A1F38E183BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F81F6467-6C82-4259-B7DF-631D294ABAEE}
+	EndGlobalSection
+EndGlobal
